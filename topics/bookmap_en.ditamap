@@ -70,4 +70,5 @@ topics in this topic from 20250528 EAA ref
 <topicref format="dita" href="Memory_configuration.xml#MemorySlots-29BD9C8F" navtitle="Memory configuration" scope="local" type="topic"/>
 <topicref format="dita" href="PCIe_configuration.xml#PCIeCardInstallationRules-2950095E" navtitle="PCIe configuration" scope="local" type="topic"/>
 </topicref>
+</chapter>
 </bookmap>
