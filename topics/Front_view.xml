@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd"><!--Arbortext, Inc., 1988-2024, v.4002--><topic id="FrontView-306E43A8" xml:lang="en"><title>Front view</title><body><image align="center" href="p5_frontvw.jpg" placement="break" scope="local"><alt>Front view</alt></image><table colsep="1" frame="all" pgwide="1" rowsep="1"><tgroup cols="4"><colspec colname="COLSPEC5" colwidth="9.28%"/><colspec colname="col1" colwidth="40.74%"/><colspec colname="COLSPEC4" colwidth="9.60%"/>
+<colspec colname="col2" colwidth="40.38%"/><thead><row><entry colsep="0" valign="middle"><?PubTbl cell border-left-style="none"?>Item</entry>
+<entry colsep="0" valign="middle">Description</entry><entry colsep="0" valign="middle">Item</entry><entry valign="middle"><?PubTbl cell border-right-style="none"?>Description</entry></row></thead><tbody>
+<row><entry colsep="0" valign="middle"><?PubTbl cell
+border-left-style="none"?>1</entry><entry colsep="0" valign="middle">Power button with indicator</entry><entry colsep="0" valign="middle">2</entry><entry valign="middle"><?PubTbl cell border-right-style="none"?>Storage
+indicator</entry></row><row><entry colsep="0" valign="middle"><?PubTbl cell border-left-style="none"?>3</entry><entry colsep="0" valign="middle">USB-A connector (USB 10Gbps, Always
+On)*</entry><entry colsep="0" valign="middle">4</entry><entry valign="middle"><?PubTbl cell border-right-style="none"?>USB-A
+connector (USB 10Gbps)*</entry></row><row><entry colsep="0" valign="middle"><?PubTbl cell border-left-style="none"?>5</entry><entry colsep="0" valign="middle">USB-C<sup>®</sup> connectors (USB
+10Gbps)*</entry><entry colsep="0" valign="middle">6</entry><entry valign="middle"><?PubTbl cell border-right-style="none"?>Combo
+audio jack</entry></row><row><entry colsep="0" valign="middle"><?PubTbl cell border-left-style="none"?>7</entry><entry colsep="0" valign="middle">Diagnostic panel button</entry><entry colsep="0" valign="middle">8</entry><entry valign="middle"><?PubTbl cell
+border-right-style="none"?>Diagnostic panel</entry></row><row><entry colsep="0" valign="middle"><?PubTbl cell border-left-style="none"?>9</entry><entry colsep="0" valign="middle">Front-access storage bay (or flex
+bay)*</entry><entry colsep="0" valign="middle"/><entry valign="middle"><?PubTbl cell
+border-right-style="none"?></entry></row></tbody></tgroup></table><p>* for selected models</p>
+<!--Adjust the following section after the first occurence of USB device in front view or rear view.-->
+<section><title>Statement on USB transfer rate</title><p>Depending
+on many factors such as the processing capability of the host and
+peripheral devices, file attributes, and other factors related to
+system configuration and operating environments, the actual transfer
+rate using the various USB connectors on this device will vary and
+will be slower than the data rate listed in the connector name for
+each corresponding device.</p></section>
+<!--Delete connector/indicator not supported by your products.-->
+<section><title>Power indicator</title><!--Confirm with your development team whether the indicator behaviors are correct.--><p>Shows the system status of your computer.<ul><li><p><b>On:</b> The
+computer is starting up or working.</p></li><li><p><b>Off:</b> The
+computer is off or in hibernation mode.</p></li><li><p><b>Blinking
+slowly:</b> The computer is in sleep mode.</p></li></ul></p></section>
+<section><title>Storage indicator</title><p>The storage indicator
+blinks when a storage drive is under reading or writing.</p></section>
+<section><title>Always On USB feature</title><p>A USB connector with
+a battery icon <image href="Up8_3.0_iconbattery.jpg" scope="local">
+<alt>an icon of a dry-cell cylindrical battery</alt></image> supports
+the Always On USB feature. With the Always On USB
+feature enabled, the connector can charge a USB-compatible device
+when the computer is in sleep mode (S3), in hibernate mode (S4), or
+even off (S5).</p><!--1. Delete the following section for ideaCentre.
+          2. Check step 2 with dev team--><p>To enable the Always
+On USB feature, do the following:<ol><li><p>Turn on or restart the
+computer. When the logo screen is displayed,
+press F1 or Fn+F1 to enter the UEFI BIOS menu.</p></li><li><p>Click <menucascade>
+<uicontrol>Devices</uicontrol><uicontrol>USB Setup</uicontrol>
+<uicontrol>USB Charging Port in S4/S5</uicontrol></menucascade> to
+enable the Always On USB feature.</p></li></ol></p></section></body>
+</topic>
