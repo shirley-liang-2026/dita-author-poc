@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd"><!--Arbortext, Inc., 1988-2024, v.4002--><?Pub UDT template _font?><?Pub UDT _nopagebreak _touchup KeepsKeep="yes" KeepsPrev="no" KeepsNext="no" KeepsBoundary="page"?><?Pub UDT _nocolumnbreak _touchup KeepsKeep="yes" KeepsPrev="no" KeepsNext="no" KeepsBoundary="column"?><?Pub UDT _bookmark _target?><?Pub UDT _nopagebreak-DUPLICATE1 _touchup KeepsKeep="yes" KeepsPrev="no" KeepsNext="no" KeepsBoundary="page"?><?Pub EntList quot?><?Pub Inc?><topic id="StorageConfiguration-29CC627F" xml:lang="en">
+<title>Storage configuration</title>
+<body>
+<p>The system features multiple spaces for high-performance storage
+configuration, offering the flexibility to choose the best fit for
+your needs.</p>
+<p><image align="center" href="up5g2_allstorage.jpg" placement="break" scope="local"><alt>Storage locations</alt></image><table>
+<tgroup cols="3"><colspec colname="col1" colwidth="0.37*"/><colspec colname="col2" colwidth="1.00*"/><colspec colname="col3" colwidth="1.64*"/>
+<thead>
+<row>
+<entry colsep="0" valign="top"><?PubTbl cell border-left-style="none"?>Location</entry>
+<entry colsep="0" valign="top">Name</entry>
+<entry valign="top"><?PubTbl cell border-right-style="none"?>Drive
+support</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>1</entry>
+<entry colsep="0">Onboard M.2 slots</entry>
+<entry><?PubTbl cell border-right-style="none"?>Up to 2 × 4TB M.2
+Gen 5 SSDs (2280 or 22110)</entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>2</entry>
+<entry colsep="0">Front-access storage bay*</entry>
+<entry><?PubTbl cell border-right-style="none"?>Up to 2 × 4TB M.2
+Gen 5 SSDs (2280)</entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell
+border-left-style="none"?>3</entry>
+<entry colsep="0">3rd SATA drive bay*</entry>
+<entry><?PubTbl cell border-right-style="none"?>Up to 1 × 12TB 3.5
+SATA3 HDD</entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>4</entry>
+<entry colsep="0">Internal SATA drive bays</entry>
+<entry><?PubTbl cell border-right-style="none"?>Up to 2 × 12TB 3.5
+SATA3 HDDs</entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>5</entry>
+<entry colsep="0">ThinkStation Enterprise Dual Drive Internal Enclosure
+(EDDIE)*</entry>
+<entry><?PubTbl cell border-right-style="none"?>Up to 2 × 12TB 3.5
+SATA3 HDDs</entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>6</entry>
+<entry colsep="0">M.2 SSD PCIe Gen 5 x16 adapter*</entry>
+<entry><?PubTbl cell border-right-style="none"?>Up to 4 × 4TB M.2
+Gen 5 SSDs (2242, 2260, 2280, 22110)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>* for selected models<note>Although multiple M.2 dimensions
+can be installed, the only drives qualified by Lenovo are 2280.</note></p>
+<section><title>Configuration rules</title><ul>
+<li><p>Systems equipped with CPUs rated at 350 W or higher do not
+support the front-access storage bay options, including M.2 SSD enclosures
+and a media card reader.</p></li>
+<li><p>Installing an NVIDIA RTX PRO Sync Board limits the number of
+supported internal HDDs to two.</p></li>
+<li><p>The EDDIE module and the 3rd SATA drive bay cannot be supported
+simultaneously.</p></li><?Pub Caret 1?>
+</ul></section>
+<section><title>Hardware requirements</title><p>The following mechanical
+or thermal parts are required for the storage configuration. Depending
+on the model, some parts may not be included and may need to be ordered
+separately.</p><table>
+<tgroup cols="2"><colspec colname="col2" colwidth="0.94*"/><colspec colname="col3" colwidth="1.70*"/>
+<thead>
+<row>
+<entry colsep="0" valign="top"><?PubTbl cell border-left-style="none"?>Name</entry>
+<entry valign="top"><?PubTbl cell border-right-style="none"?>Required
+parts for the drive installation</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>Onboard
+M.2 slots</entry>
+<entry><?PubTbl cell border-right-style="none"?><ul compact="yes">
+<li>On-board SSD heat sink kit</li>
+</ul></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>Front-access
+storage bay*</entry>
+<entry><?PubTbl cell border-right-style="none"?><ul compact="yes">
+<li><p>Flex bay fan</p></li>
+<li><p>Flex bay cage</p></li>
+<li><p>M.2 SSD enclosure tray</p></li>
+<li><p>M.2 SSD enclosures</p></li>
+<li><p>M.2 SSD enclosure cable</p></li>
+<li><p>Flex bay cover</p></li>
+<li><p>Key to the SSD enclosure lock</p></li>
+</ul></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>3rd SATA
+drive bay*</entry>
+<entry><?PubTbl cell border-right-style="none"?><ul compact="yes">
+<li><p>Optional HDD cage</p></li>
+<li><p>Optional HDD cage holder</p></li>
+<li><p>Optional HDD bracket</p></li>
+<li><p>SATA data cable</p></li>
+<li><p>SATA power cable</p></li>
+<li><p>Flex bay cage</p></li>
+<li><p>Flex bay fan</p></li>
+</ul></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>Internal
+SATA drive bays</entry>
+<entry><?PubTbl cell border-right-style="none"?><ul compact="yes">
+<li><p>HDD fan</p></li>
+<li><p>HDD bracket</p></li>
+<li><p>SATA data cable</p></li>
+<li><p>SATA power cable</p></li>
+</ul></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>ThinkStation
+Enterprise Dual Drive Internal Enclosure (EDDIE)*</entry>
+<entry><?PubTbl cell border-right-style="none"?><ul compact="yes">
+<li><p>HDD enclosure tray</p></li>
+<li><p>EDDIE screw kit</p></li>
+<li><p>EDDIE cable clip</p></li>
+<li><p>EDDIE support bracket</p></li>
+<li><p>SATA data cables</p></li>
+<li><p>SATA power cable</p></li>
+</ul></entry>
+</row>
+<row>
+<entry colsep="0"><?PubTbl cell border-left-style="none"?>M.2 SSD
+PCIe adapter*</entry>
+<entry><?PubTbl cell border-right-style="none"?><ul compact="yes">
+<li><p>Available PCIe x16 slot</p></li>
+<li><p>M.2 SSD PCIe adapter</p></li>
+</ul></entry>
+</row>
+</tbody>
+</tgroup>
+</table>* for selected models<note>For EDDIE installation instructions,
+refer to the documentation included with the module. For other part
+details, refer to the hardware replacement section.</note></section>
+</body>
+</topic>

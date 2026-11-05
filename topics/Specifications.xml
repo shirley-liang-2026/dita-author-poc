@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd"><!--Arbortext, Inc., 1988-2024, v.4002--><?Pub Inc?><topic id="Specifications-306EB148" xml:lang="en">
+<title>Specifications</title>
+<body>
+<section><title>Dimensions &amp; weight</title><table colsep="1" frame="topbot" pgwide="1" rowheader="firstcol" rowsep="1">
+<tgroup cols="2"><colspec colname="col1" colwidth="29.95*"/><colspec colname="col2" colwidth="70.05*"/>
+<thead>
+<row>
+<entry valign="top">Item</entry>
+<entry valign="top">Description<!--Do not use the decimal points.--></entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry colsep="1">Width</entry>
+<entry>165 mm (6.5 inches)</entry>
+</row>
+<row>
+<entry colsep="1">Height</entry>
+<entry>440 mm (17.3 inches) with feet</entry>
+</row>
+<row>
+<entry colsep="1">Depth</entry>
+<entry>453.9 mm (17.9 inches)</entry>
+</row>
+<row>
+<entry>Weight (without packaging)</entry>
+<entry>Maximum configuration as shipped: 19 kg (41.89 lb)</entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+<section><title>Power supply</title><!--For products with PSU inside--><table colsep="1" frame="topbot" pgwide="1" rowheader="firstcol" rowsep="1">
+<tgroup cols="2"><colspec colname="col1" colwidth="29.95*"/><colspec colname="col2" colwidth="70.05*"/>
+<thead>
+<row>
+<entry valign="top">Item</entry>
+<entry valign="top">Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>AC input voltage</entry>
+<entry>100 V–240 V</entry>
+</row>
+<row>
+<entry colsep="1">Input frequency</entry>
+<entry>50/60 Hz</entry>
+</row>
+<row>
+<entry colsep="1">Power supply</entry>
+<entry><ul>
+<li><p>750-watt automatic voltage-sensing power supply</p></li>
+<li><p>1000-watt automatic voltage-sensing power supply</p></li>
+</ul></entry>
+</row>
+</tbody>
+</tgroup>
+</table></section>
+<section><title>Memory</title><table colsep="1" frame="topbot" pgwide="1" rowheader="firstcol" rowsep="1">
+<tgroup cols="2"><colspec colname="col1" colwidth="29.95*"/><colspec colname="col2" colwidth="70.05*"/>
+<thead>
+<row>
+<entry valign="top">Item</entry>
+<entry valign="top">Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Slots</entry>
+<entry>8 memory slots across 4 channels</entry>
+</row>
+<row>
+<entry>Memory type</entry>
+<entry>DDR5-6400 ECC RDIMM (16 GB, 32 GB, 64 GB, or 128 GB)</entry>
+</row>
+<row>
+<entry>DIMM count</entry>
+<entry>1, 2, 4, or 8</entry>
+</row>
+<row>
+<entry>Maximum capacity</entry>
+<entry>Up to 1 TB (8 × 128 GB)</entry>
+</row>
+</tbody>
+</tgroup>
+</table><note>System memory speed may be reduced when multiple memory
+modules are installed per channel. The system provides eight memory
+slots over four CPU channels, with two slots per channel. When eight
+memory modules are installed, the 6400 MT/s memory speed will clock
+down to 5200 MT/s.</note></section>
+<section><title>Storage</title><table colsep="1" frame="topbot" pgwide="1" rowheader="firstcol" rowsep="1">
+<tgroup cols="2"><colspec colname="col1" colwidth="29.92*"/><colspec colname="col2" colwidth="70.08*"/>
+<thead>
+<row>
+<entry valign="top">Item</entry>
+<entry valign="top">Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Drive type</entry>
+<entry><ul>
+<li><p>3.5-inch SATA3 hard disk drive (HDD)*</p></li>
+<li><p>M.2 PCIe Gen 5 solid-state drive (SSD)*</p></li>
+</ul></entry>
+</row>
+<row>
+<entry>Capacity</entry>
+<entry>To view the storage drive capacity of your computer, type <userinput>Disk Management</userinput> in the Windows search box and then press
+Enter.<note>The storage drive capacity indicated by the system is
+less than the nominal capacity.</note></entry>
+</row>
+</tbody>
+</tgroup>
+</table>* for selected models</section>
+<section><title>Display</title><table colsep="1" frame="topbot" pgwide="1" rowheader="firstcol" rowsep="1">
+<tgroup cols="2"><colspec colname="col1" colwidth="29.95*"/><colspec colname="col2" colwidth="70.05*"/>
+<thead>
+<row>
+<entry valign="top">Item</entry>
+<entry valign="top">Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Display support</entry>
+<entry>Up to 8 independent displays by two discrete graphics cards*</entry>
+</row>
+<row>
+<entry>Maximum output resolution</entry>
+<entry>Up to 7680 × 4320 pixels at 165 Hz, using DisplayPort with
+Display Stream Compression (DSC)</entry>
+</row>
+</tbody>
+</tgroup>
+</table>* for selected models<note>The actual resolution of external
+displays may vary by the connected display device, the cable being
+used, and the number of displays connected.</note></section>
+<section><title>Networking</title><table colsep="1" frame="topbot" pgwide="1" rowheader="firstcol" rowsep="1">
+<tgroup cols="2"><colspec colname="col1" colwidth="29.95*"/><colspec colname="col2" colwidth="70.05*"/>
+<thead>
+<row>
+<entry valign="top">Item</entry>
+<entry valign="top">Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Bluetooth<sup>®</sup></entry>
+<entry>Bluetooth 5.4*</entry>
+</row>
+<row>
+<entry>Wi-Fi<sup>®</sup></entry>
+<entry>Wi-Fi 7*</entry>
+</row>
+<row>
+<entry>Ethernet LAN</entry>
+<entry><ul>
+<li><p>Onboard Ethernet: 2.5 GbE</p></li>
+<li><p>Optional Ethernet: Up to two additional Ethernet adapters with
+up to four additional 25 GbE connectors</p></li><?Pub Caret 1?>
+</ul></entry>
+</row>
+</tbody>
+</tgroup>
+</table>* for selected models</section>
+<section><title>View hardware configuration in Windows</title><!--Windows UI. Update this for Linux products--><p>Installed hardware varies by model and configuration. To view your
+hardware configuration:<ul>
+<li><p>Type <userinput>Device Manager</userinput> in the Windows search
+box and press Enter.</p></li>
+<li><p>If prompted, enter the administrator password or provide confirmation.</p></li>
+</ul></p></section>
+<!--The following topic is for ThinkStation P series. Need to confirm values with liability test lab. Contact window: wangqin4@lenovo.com-->
+<!--ThinkStation P version-->
+<section><title>Operating environment</title><p><b>Maximum altitude
+(without pressurization)</b><ul>
+<li><p>Operating: From 0 m (0 ft) to 3048 m (<ph dir="ltr">10 000</ph> ft)</p></li>
+<li><p>Storage: From 0 m (0 ft) to <ph dir="ltr">12192</ph> m (<ph dir="ltr">40 000</ph> ft)</p></li>
+</ul></p><p><b>Temperature</b><ul>
+<li><p>Operating: From 10<keyword outputclass="symbol">°</keyword>C (50<keyword outputclass="symbol">°</keyword>F) to 35<keyword outputclass="symbol">°</keyword>C (95<keyword outputclass="symbol">°</keyword>F)</p></li>
+<li><p>Storage: From -40<keyword outputclass="symbol">°</keyword>C
+(-40<keyword outputclass="symbol">°</keyword>F) to 60<keyword outputclass="symbol">°</keyword>C (140<keyword outputclass="symbol">°</keyword>F)</p></li>
+</ul></p><p><b>Relative humidity</b><ul>
+<li><p>Operating: 20%-80% (non-condensing)</p></li>
+<li><p>Storage: 10%–90% (non-condensing)</p></li>
+</ul></p></section>
+</body>
+</topic>
